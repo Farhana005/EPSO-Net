@@ -1,4 +1,4 @@
-🚀 EPSO-Net: A Multi-Objective Evolutionary NAS with PSO-Guided Mutation Fusion for Explainable Brain Tumor Segmentation
+🚀 EPSO-Net: A Multi-Objective Evolutionary Neural Architecture Search with PSO-Guided Mutation Fusion for Explainable Brain Tumor Segmentation
 🚀 Accurate and Efficient 3D Brain Tumor Segmentation in MRI using Evolutionary Optimization
 
 📌 Full code and pretrained models will be released soon!
